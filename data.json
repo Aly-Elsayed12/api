@@ -1,0 +1,7 @@
+{
+  "customers": [
+      {"name": "John Doe", "transactions": [120, 45, 67]},
+      {"name": "Jane Smith", "transactions": [89, 23, 78]},
+      {"name": "Sam Green", "transactions": [45, 123, 34]}
+  ]
+}
